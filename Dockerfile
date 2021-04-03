@@ -6,5 +6,6 @@ RUN apt-get update && apt-get install -y \
     texlive-lang-german \
     texlive-bibtex-extra \
     biber \
-    latexmk
+    latexmk \
+    python3-pygments
 
