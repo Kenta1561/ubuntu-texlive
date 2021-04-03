@@ -4,5 +4,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     texlive-latex-extra \
     texlive-lang-german \
+    texlive-bibtex-extra \
+    biber \
     latexmk
 
